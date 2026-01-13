@@ -39,7 +39,7 @@ export const HeroSection = () => {
           </a>
 
           <a
-            href="/docs/Jithendra_Kantharaju_CV.pdf"
+            href="docs/Jithendra_Kantharaju_CV.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="px-6 py-2 rounded-full border border-border text-foreground hover:bg-secondary/40 transition-colors duration-300"
