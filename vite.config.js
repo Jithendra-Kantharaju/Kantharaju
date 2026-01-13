@@ -10,6 +10,6 @@ export default defineConfig({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-  // Helps when deploying to cPanel/static hosting (relative asset paths)
-  base: "./",
+  // IMPORTANT: This must match your GitHub repository name exactly
+  base: "/Kantharaju/",
 });
